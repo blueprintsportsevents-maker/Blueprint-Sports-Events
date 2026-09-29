@@ -1,0 +1,6 @@
+{
+  "name": "Blueprint Sports Events — Complete Management",
+  "description": "Comprehensive Track & Field meet management system covering athlete entries, seeding & lane draws, call room, interactive photo-finish timing, live results, team points, medal ceremonies, broadcaster live stream graphics, and official reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
